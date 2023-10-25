@@ -1,4 +1,4 @@
-# How to add a new place visited
+## How to add a new place visited
 
 1. Drop image of new restaurant visited in the /images folder and name it accordingly (numerically).
 1. Add the following to `index.html`, above the line `</section>`:
