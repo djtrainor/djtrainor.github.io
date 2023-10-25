@@ -11,3 +11,6 @@
 </article>
 ```
 1. Once done, refresh and watch the changes persist to the website in a couple minutes :)
+
+## Is your change being added to the website?
+[![pages-build-deployment](https://github.com/djtrainor/djtrainor.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/djtrainor/djtrainor.github.io/actions/workflows/pages/pages-build-deployment)
