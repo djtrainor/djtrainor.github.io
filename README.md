@@ -5,8 +5,7 @@
 ```
 <article>
 	<a class="thumbnail" href="images/{THE IMAGE YOU JUST UPLOADED}.jpg"><img class="blurred-image" src="images/{THE IMAGE YOU JUST UPLOADED}.jpg" alt="" /></a>
-	<div class="rating">{YOUR RATING, FROM 0-5}</div>
-	<h2><a href="{GOOGLE MAPS LINK TO RESTAURANT}">{NAME OF RESTAURANT}</a></h2>
+	<h2><a href="{GOOGLE MAPS LINK TO RESTAURANT}">{NAME OF RESTAURANT}, {RATING FROM 0-5}</a></h2>
 	<p>{BRIEF DESCRIPTION OF WEBSITE}</p>
 </article>
 ```
